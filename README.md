@@ -17,7 +17,7 @@
 
 <div>  
   
-  ![Snake animation](https://github.com/felipecaninnovaes/felipecaninnovaes/blob/main/cobrinha.yml)
+  ![Snake animation](https://github.com/felipecaninnovaes/felipecaninnovaes/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
